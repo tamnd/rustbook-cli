@@ -1,0 +1,10 @@
+title       = "rustbook"
+baseURL     = "https://rustbook-cli.tamnd.com/"
+description = "A command line for rustbook."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/rustbook-cli"
